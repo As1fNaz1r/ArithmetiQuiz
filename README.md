@@ -20,7 +20,7 @@ ArithmetiQuiz is an interactive quiz game designed to test your knowledge of fun
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/ArithmetiQuiz.git
+   git clone https://github.com/As1fNaz1r/ArithmetiQuiz.git
 2. Open the project directory in your preferred code editor.
 3. Launch the index.html file in a web browser.
 
